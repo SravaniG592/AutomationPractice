@@ -1,0 +1,32 @@
+.txt- not import
+.properties
+.ini
+.xlsx/xls  poi/fillo
+
+db reading jdbc
+fakedata generation
+
+
+3 streams
+input stream   reading from file/user input
+output stream  writing from afile/output console
+error stream
+
+
+File(class)
+File input stream
+File output stream
+Buffered writer    writer class
+Buffered reader    reader class
+-----------------------------------
+integrate poi from apache
+
+-----------------------------------
+filo--- sql query to fetch data from xls
+
+--------------------------------------------
+
+Path   abs   ==complete path
+       relative
+
+System.getproperty("user dir")
